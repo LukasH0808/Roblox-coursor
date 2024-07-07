@@ -1,3 +1,5 @@
+cmd is the comand prompt on windows :)
+
 1) YOU NEED TO INSTALL PYTHON - https://www.python.org/downloads/
 2) open cmd and type: pip install pyautogui
 3) open cmd and type: pip install time
